@@ -3,8 +3,8 @@
 ### Certifications
 | Certification | Number | Verification |
 |---------------|--------|--------------|
-| CAMS | #12345678 | [ACAMS Verify](https://www.acams.org/en/find-a-certified-individual) |
-| CFE | #87654321 | [ACFE Verify](https://www.acfe.com/find-a-cfe) |
+| CAMS | #96361946 | [ACAMS Verify](https://www.acams.org/en/find-a-certified-individual) |
+| CFE | #81820086 | [ACFE Verify](https://www.acfe.com/find-a-cfe) |
 
 ### Government Service Verification
 My service at FinCEN (2015–2019) is verifiable through:
